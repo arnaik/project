@@ -21,7 +21,7 @@ use strict;
 
 $| = 1;
 
-
+print "amulya\n";
 print "hello world\n";
 # vim: ts=4
 # vim600: fdm=marker fdl=0 fdc=3
