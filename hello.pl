@@ -18,10 +18,13 @@
 # $Platon$
 
 use strict;
+use Data::Dumper;
 
 $| = 1;
 
 
+my $arr = [2,5,8,1,11,9];
+print Dumper $a;
 print "hello world\n";
 # vim: ts=4
 # vim600: fdm=marker fdl=0 fdc=3
