@@ -30,6 +30,10 @@ print "hello world\n";
 
 my @qwert = (1,1,2);
 my @new = (1,1,2);
+my %h;
+%h = ('a',1,'b',2);
+
+print Dumper \%h;
 # vim: ts=4
 # vim600: fdm=marker fdl=0 fdc=3
 
