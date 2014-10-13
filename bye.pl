@@ -19,10 +19,9 @@
 
 use strict;
 
-$| = 1;
 my @q =  (1,2,3,4);
 print "n\ n";
-
+print "amulya \n";
 # vim: ts=4
 # vim600: fdm=marker fdl=0 fdc=3
 
