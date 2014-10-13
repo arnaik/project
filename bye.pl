@@ -20,7 +20,7 @@
 use strict;
 
 $| = 1;
-
+my @q =  (1,2,3,4);
 print "n\ n";
 
 # vim: ts=4
